@@ -1,0 +1,2 @@
+typer~=0.9.0
+saucenao_api~=2.4.0
